@@ -1,1 +1,1 @@
-# Programming-Technique-2
+# Programming Technique 2
